@@ -1,4 +1,4 @@
-# Programmazione-dei-Calcolatori-aa21-22
+# Programmazione dei Calcolatori con Laboratorio  a.a. 2021-22
 
 ## Video delle lezioni
 
