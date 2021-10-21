@@ -10,4 +10,4 @@
 
 * *Esercizio*: Modificare l'esempio precedente in modo da disegnare  solo il perimetro del rettangolo
 
-* [Video della lezione](https://www.dropbox.com/s/q41q30r606sp714/20211019-lezione_3.mp4?dl=1)
+* [Video della lezione](https://www.dropbox.com/s/of8ylp634ic9rpg/20211021-lezione_4.mp4?dl=1)
