@@ -8,3 +8,4 @@
 4. [2021-10-21](https://www.dropbox.com/s/of8ylp634ic9rpg/20211021-lezione_4.mp4?dl=1)
 5. [2021-10-26](https://www.dropbox.com/s/338iss952klr2mz/20211026-lezione_5.mp4?dl=1)
 6. [2021-10-28](https://www.dropbox.com/s/lzdbsixz4p2ankt/20211028-lezione_6.mp4?dl=1)
+7. [2021-11-02](https://www.dropbox.com/s/robfszlwbclth7a/20211102-lezione_7.mp4?dl=1)
