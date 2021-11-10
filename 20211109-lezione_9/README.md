@@ -10,4 +10,5 @@
 
 * [Video della lezione](https://www.dropbox.com/s/iieowwc1kb63ulr/20211109-lezione_9.mp4?dl=1)
 
+**ERRATA**: Al minuto 1:19, 1**-12 non è 0.0.....1 ma 1.0 Avrei dovuto mettere 10**-12. Questo spiega perché l'approssimazione calcolata per questo valore è pessima.
 
