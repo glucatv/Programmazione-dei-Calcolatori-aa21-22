@@ -8,7 +8,7 @@
 
 * [Video della lezione](https://www.dropbox.com/s/cd96dhqpiymwip4/20211111-lezione_10.mp4?dl=1)
 
-###Addendum
+### Addendum
 
 *Esercizio*: Scrivere una funzione per il calcolo della radice quadrata che faccia uso della stessa tecnica utilizzata per la funzione logaritmo. La funzione, chiamata *radice_per_bisezione*, deve prendere in input *x* e *err* e deve restituire la radice quadrata di *x* utilizzando *err* come parametro per la valutazione della qualità  dell'approssimazione. Rispetto alla funzione *sqrt* mostrata nella lezione 9 del 9 novembre, quale converge prima?  
 
