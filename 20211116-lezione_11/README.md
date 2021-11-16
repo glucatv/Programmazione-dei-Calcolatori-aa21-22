@@ -1,6 +1,6 @@
 # Argomenti
 
-* Soluzione dell'esercizio proposto nella lezione precedente
+* Soluzione degli esercizi proposti nella lezione precedente
 
 * Funzioni che restituiscono più risultati. Le *tuple*: definizione, indicizzazione, slicing, lunghezza, concatenazioni, ripetizione, iterazione. Funzioni che prendono un numero variabile di argomenti.
 
