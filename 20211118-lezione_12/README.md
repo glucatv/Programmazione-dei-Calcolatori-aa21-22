@@ -5,5 +5,5 @@
  
 * *Esercizio*: scrivere una funzine ricorsiva che restituisce True se e solo se la stringa in input è palindroma
 
-* [Video della lezione](https://www.dropbox.com/s/mt1mu6n8zz1mj49/20211116-lezione_11.mp4?dl=1)
+* [Video della lezione](https://www.dropbox.com/s/m4aevm60zzikps0/20211118-lezione_12.mp4?dl=1)
 
