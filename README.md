@@ -15,3 +15,4 @@
 11. [2021-11-16](https://www.dropbox.com/s/mt1mu6n8zz1mj49/20211116-lezione_11.mp4?dl=1)
 12. [2021-11-18](https://www.dropbox.com/s/m4aevm60zzikps0/20211118-lezione_12.mp4?dl=1)
 13. [2021-11-23](https://www.dropbox.com/s/vad4kj0k9ikhl68/20211123-lezione_13.mp4?dl=1)
+14. [2021-11-25](https://www.dropbox.com/s/sshb3bam1crzinr/20211125-lezione_14.mp4?dl=1)
