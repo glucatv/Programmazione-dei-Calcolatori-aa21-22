@@ -17,7 +17,7 @@ alias per le liste annidate.
 
 (La figura mostra uno screenshot di [Python Tutor](https://pythontutor.com/) raffigurante lo stato delle variabili dopo una operazione di clonazione e di assegnamento ad un elemento di una lista annidata).
 
-Scrivere una funzione Python denominata *deep_copy* che clona la stringa in input e tutte le stringhe annidate che essa contiene.
+Scrivere una funzione Python denominata *deep_copy* che clona la lista in input e tutte le liste annidate che essa contiene.
 
 *Suggerimento*. Ci si ispiri alla funzione *conta_elem_tna* descritta nella [Lezione 14](https://github.com/glucatv/Programmazione-dei-Calcolatori-aa21-22/tree/main/20211125-lezione_14).
 
