@@ -7,7 +7,7 @@
 # Esercizi
 
 ## 1
-Sia `a` una lista lunga `n`, scrivere un programma che chiede all'utente di digitare `m` stringhe e per ognuna di queste il programma deve stampaew quante volte compare in `a` ed in che posizione si trova l'ultima occorrenza (se il numero di occorrenze è >0). Il costo della soluzione deve essere `O(n+m)`.
+Sia `a` una lista lunga `n`, scrivere un programma che chiede all'utente di digitare `m` stringhe e per ognuna di queste il programma deve stampare quante volte compare in `a` ed in che posizione si trova l'ultima occorrenza (se il numero di occorrenze è >0). Il costo della soluzione deve essere `O(n+m)`.
 
 ## 2
 Scrivere una funzione denominata *inverti_dizionario* che prende in input un dizionario `d` e restituisce un dizionario `d_inv` che ha per chiavi i valori in `d` e `d_inv[v]` è la lista di chiavi che `d` mappa in `v`. Esempio se
