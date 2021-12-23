@@ -1,5 +1,38 @@
 # Programmazione dei Calcolatori con Laboratorio  a.a. 2021-22
 
+---------------------------------
+
+## Programma dettagliato
+### Aggiornato al 23 dicembre 2021
+
+1. Introduzione a Python
+    - Guttag capitolo 2
+    - No par. 2.4.2
+2. Ricerca per bisezione
+    - Guttag capitolo 3
+    - No par. 3.3, 3.4
+3. Funzioni
+    - Guttag capitolo 4 
+5. Strutture dati
+	- Tuple (Guttag 5.1)
+	- Range (Guttag 5.2)
+	- Liste (Guttag 5.3 escluso per il momento 5.3.2)
+	- Set (Guttag 5.6)
+	- Dizionari (Guttag 5.7)
+
+6. Ricorsione
+    - Guttag capitolo 6 escluso per il momento 6.3
+ 
+7. Bubble sort:
+    - Notebook: **2021-12-02** e **2021-12-07**
+    - Definizione, correttezza, implementazione, ottimizzazione, generalizzazione
+8. Complessità computazionale:
+    - Guttag capitolo 11
+	- Complessità computazionale delle principali operazioni su liste e set (**notebook 2021-12-21**)
+	- Complessità computazionale delle principali operazioni su dizionari (**notebook 2021-12-23**)
+
+-----------------
+
 ## Video delle lezioni
 
 1. [2021-10-12](https://www.dropbox.com/s/q511d12dlj5yzl0/20211012-lezione_1.mp4?dl=1)
@@ -23,3 +56,4 @@
 19. [2021-12-14](https://www.dropbox.com/s/7egf370k0om07js/20211214-lezione_19.mp4?dl=1)
 20. [2021-12-16](https://www.dropbox.com/s/7sp1sajpt49hyqj/20211216-lezione_20.mp4?dl=1)
 21. [2021-12-21](https://www.dropbox.com/s/whg62j8swrpskpe/20211221-lezione_21.mp4?dl=1)
+22. [2021-12-23](https://www.dropbox.com/s/z7blwdunqo01nte/20211223-lezione_22.mp4?dl=1)
