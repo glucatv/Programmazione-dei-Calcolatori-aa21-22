@@ -1,6 +1,6 @@
 # Argomenti
 
-* La struttura dati dizonario: definizione, operatori, metodi e costi computazionali
+* La struttura dati dizionario: definizione, operatori, metodi e costi computazionali
 
 * [Video della lezione](https://www.dropbox.com/s/z7blwdunqo01nte/20211223-lezione_22.mp4?dl=1)
 

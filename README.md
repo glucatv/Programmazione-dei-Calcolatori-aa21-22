@@ -57,3 +57,4 @@
 20. [2021-12-16](https://www.dropbox.com/s/7sp1sajpt49hyqj/20211216-lezione_20.mp4?dl=1)
 21. [2021-12-21](https://www.dropbox.com/s/whg62j8swrpskpe/20211221-lezione_21.mp4?dl=1)
 22. [2021-12-23](https://www.dropbox.com/s/z7blwdunqo01nte/20211223-lezione_22.mp4?dl=1)
+23. [2022-01-11](https://www.dropbox.com/s/0y5ckas2lysb4n4/20220111-lezione_23.mp4?dl=1)
