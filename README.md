@@ -3,7 +3,7 @@
 ---------------------------------
 
 ## Programma dettagliato
-### Aggiornato al 23 dicembre 2021
+### Aggiornato ai contenuti del primo semestre
 
 1. Introduzione a Python
     - Guttag capitolo 2
@@ -31,6 +31,8 @@
 	- Complessità computazionale delle principali operazioni su liste e set (**notebook 2021-12-21**)
 	- Complessità computazionale delle principali operazioni su dizionari (**notebook 2021-12-23**)
 
+9. Algoritmi
+	- Ricerca lineare e binaria (Guttag 12.1)
 -----------------
 
 ## Video delle lezioni
