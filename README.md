@@ -3,7 +3,7 @@
 ---------------------------------
 
 ## Programma dettagliato
-### Aggiornato ai contenuti del primo semestre
+### Aggiornato al 18 marzo, 2022
 
 1. Introduzione a Python
     - Guttag capitolo 2
