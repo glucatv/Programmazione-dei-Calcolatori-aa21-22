@@ -127,7 +127,7 @@ L'operatore di assegnamento su liste (*aliasing*). L'algoritmo di ordinamento *b
 **2**: Supponiamo che la lista *a* contenga liste annidate, l'operazione di copia tra liste con slicing si limita a clonare la lista principale (radice) creando 
 alias per le liste annidate. 
 
-![immagine](clonazione_superficiale.png)
+![immagine](20211202-lezione_16/clonazione_superficiale.png)
 
 (La figura mostra uno screenshot di [Python Tutor](https://pythontutor.com/) raffigurante lo stato delle variabili dopo una operazione di clonazione e di assegnamento ad un elemento di una lista annidata).
 
