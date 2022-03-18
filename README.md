@@ -16,12 +16,12 @@
 5. Strutture dati
 	- Tuple (Guttag 5.1)
 	- Range (Guttag 5.2)
-	- Liste (Guttag 5.3 escluso per il momento 5.3.2)
+	- Liste (Guttag 5.3)
 	- Set (Guttag 5.6)
 	- Dizionari (Guttag 5.7)
 
 6. Ricorsione
-    - Guttag capitolo 6 escluso per il momento 6.3
+    - Guttag capitolo 6
  
 7. Bubble sort:
     - Notebook: **2021-12-02** e **2021-12-07**
@@ -33,6 +33,8 @@
 
 9. Algoritmi
 	- Ricerca lineare e binaria (Guttag 12.1)
+	- Algoritmo di ordinamento per fusione (Guttag 12.2.1)
+
 -----------------
 
 ## Video delle lezioni
@@ -63,3 +65,5 @@
 24. [2022-01-13](https://www.dropbox.com/s/m1hn9v0gzilmv0m/20220113-lezione_24.mp4?dl=1)
 25. [2022-03-10](https://www.dropbox.com/s/tixfj65sfxh0aeo/20220310-lezioni_25.mp4?dl=1)
 26. [2022-03-11](https://www.dropbox.com/s/62nohqiejiux2sn/20220311-lezione_26.mp4?dl=1)
+27. [2022-03-17]()
+28. [2022-03-17]()
