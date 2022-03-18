@@ -65,5 +65,5 @@
 24. [2022-01-13](https://www.dropbox.com/s/m1hn9v0gzilmv0m/20220113-lezione_24.mp4?dl=1)
 25. [2022-03-10](https://www.dropbox.com/s/tixfj65sfxh0aeo/20220310-lezioni_25.mp4?dl=1)
 26. [2022-03-11](https://www.dropbox.com/s/62nohqiejiux2sn/20220311-lezione_26.mp4?dl=1)
-27. [2022-03-17]()
+27. [2022-03-17](https://www.dropbox.com/s/xuwnyi9q7ozglm9/20220317-lezione_27.mp4?dl=1)
 28. [2022-03-17]()
