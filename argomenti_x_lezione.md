@@ -200,15 +200,11 @@ Complessià computazione, analisi del caso peggiore (worst case) in funzione del
 
 Si progetti ed implementi in Python una funzione denominata *intersezione* che prende in input due liste *a* e *b* e restituisce una terza lista, diciamo *c*, contenente tutti gli elementi che sono sia in *a* che in *b*. La lista *c* non deve avere elementi ripetuti. Dopo aver implementato la funzione se ne calcoli il costo computazionale.
 
-
-
 ## Lezione 21 del 2021-12-21
 
 Soluzione dell'esercizio della lezione precedente. Costi degli operatori e dei metodi sulle liste. La struttura dati **set**, gli operatori e il loro costo computazionale.
 
 [Video della lezione](https://www.dropbox.com/s/whg62j8swrpskpe/20211221-lezione_21.mp4?dl=1)
-
-
 
 ## Lezione 22 del 2021-12-23
 
@@ -282,3 +278,19 @@ L'algoritmo di ordinamento per fusione *merge sort*: implementazione e implicazi
 Introduzione al linguaggio di programmazione C: editig e compilazione; la funzione `main`; variabili; tipi `int`, `float`, `char` e stringhe; la funzione `printf`; cicli `while`; funzioni e tipi di ritorno; il tipo `void`.
 
 [Video della lezione](https://www.dropbox.com/s/rzptk134dldgxoa/20220318-lezione_28.mp4?dl=1) 
+
+## Lezione 29 del 2022-03-24
+
+Ruolo e significato della variabili in C e differenze con Python. Operatori aritmetici e relazionali. Conversioni di tipo implicito ed esplicito (casting). Definizione di funzioni.
+
+[Video della lezione](TODO)
+
+## Lezione 30 del 2022-03-25
+
+*Dichiarazioni* e definizioni delle funzioni, il ruolo del *prototipo* di funzione nel processo di compilazione. La funzione nella compilazione dell'operazione di inclusione (`#include`) dei *file di intestazione* (.h) o *header*. Descrizione schematica del processo di compilazione: *precompilazione*; *compilazione*; *linking*. Compilazione di un programma diviso su più file, esempio
+
+    gcc lezione30.c nep.c
+    
+Sequenze in C, gli **array**: definizione; array come argomenti di funzione.
+
+[Video della lezione](TODO)
