@@ -283,7 +283,7 @@ Introduzione al linguaggio di programmazione C: editig e compilazione; la funzio
 
 Ruolo e significato della variabili in C e differenze con Python. Operatori aritmetici e relazionali. Conversioni di tipo implicito ed esplicito (casting). Definizione di funzioni.
 
-[Video della lezione](TODO)
+[Video della lezione](https://www.dropbox.com/s/m81ugowyk15suao/20220324-lezione_29.mp4?dl=1)
 
 ## Lezione 30 del 2022-03-25
 
@@ -293,4 +293,4 @@ Ruolo e significato della variabili in C e differenze con Python. Operatori arit
     
 Sequenze in C, gli **array**: definizione; array come argomenti di funzione.
 
-[Video della lezione](TODO)
+[Video della lezione](https://www.dropbox.com/s/9jz3e4erildlp30/20220325-lezione_30.mp4?dl=1)
