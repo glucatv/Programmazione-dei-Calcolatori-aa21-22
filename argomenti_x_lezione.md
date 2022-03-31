@@ -294,3 +294,9 @@ Ruolo e significato della variabili in C e differenze con Python. Operatori arit
 Sequenze in C, gli **array**: definizione; array come argomenti di funzione.
 
 [Video della lezione](https://www.dropbox.com/s/9jz3e4erildlp30/20220325-lezione_30.mp4?dl=1)
+
+## Lezione 31 del 2022-03-31
+
+Array e puntatori; la funzione `sizeof`; differenze tra array e puntatori; l'indirizzo `NULL`; le costanti e la direttiva `#define`; l'operatore `*` e l'aritmetica dei puntatori.
+
+[Video della lezione](https://www.dropbox.com/s/tscci0ets3i4c1x/20220331-lezione_31.mp4?dl=1)
