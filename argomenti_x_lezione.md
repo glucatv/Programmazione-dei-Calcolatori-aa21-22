@@ -300,3 +300,11 @@ Sequenze in C, gli **array**: definizione; array come argomenti di funzione.
 Array e puntatori; la funzione `sizeof`; differenze tra array e puntatori; l'indirizzo `NULL`; le costanti e la direttiva `#define`; l'operatore `*` e l'aritmetica dei puntatori.
 
 [Video della lezione](https://www.dropbox.com/s/tscci0ets3i4c1x/20220331-lezione_31.mp4?dl=1)
+
+## Lezione 32 del 2022-04-01
+
+L'operatore `&`; le lunzioni `malloc` e `free` della libreria `stdlib`; funzioni che creano e restituiscono array; primi cenni su come realizzare in C array dinamici.
+
+[Video della lezione](https://www.dropbox.com/s/1dtp6tq0x7bptgf/20220401-lezione_32.mp4?dl=1)
+
+
