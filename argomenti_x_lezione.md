@@ -307,4 +307,10 @@ L'operatore `&`; le lunzioni `malloc` e `free` della libreria `stdlib`; funzioni
 
 [Video della lezione](https://www.dropbox.com/s/1dtp6tq0x7bptgf/20220401-lezione_32.mp4?dl=1)
 
+## Lezione 33 del 2022-04-07
+
+**Problema**: progettare una funzione che restituisce una stringa concatenando due stringhe di input. Approfondimenti sul tipo di dato `char`: la codifica *ASCII*. **Esercizio**: scrivere una funzione che prende in input una stringa e conta il numero di caratteri minuscoli che questa contiene.
+
+[Video della lezione](https://www.dropbox.com/s/flf52jzmcj4kvqe/20220407-lezione_33.mp4?dl=1)
+
 

@@ -16,7 +16,7 @@ int *crea_array_int(int n) {
     int i;
     
     if ( p != NULL ){ /* ho l'array */
-        for(i = 0; i < n; i++ ) {
+        for( i = 0; i < n; i++ ) {
             p[i] = 0;
         }
     }
