@@ -313,4 +313,15 @@ L'operatore `&`; le lunzioni `malloc` e `free` della libreria `stdlib`; funzioni
 
 [Video della lezione](https://www.dropbox.com/s/flf52jzmcj4kvqe/20220407-lezione_33.mp4?dl=1)
 
+## Lezione 34 del 2022-04-08
+
+Soluzione dell'esercizio proposto nella lezione precedente. Puntatori come argomenti delle funzioni: fare in modo che una funzioni modifichi variabili dichiarate esternamente. Una prima implementazione di array dinamico in C con una funzioe `append` che aggiunge un elemento in fondo all'array.
+
+**Esercizi**
+
+1. Scrivere una funzione denominata `swap_cases` che prende in input una stringa e rende maiuscole le lettere minuscole e viceversa.
+2. Scrivere una funzione denominata `slice` che prende una stringa `a` e due interi positivi `i` e `j` (si può assumere che `i<j`) e restituisce una stringa composta dai caratteri `a[i]`, `a[i+1]`,...`a[j-1]`. Si tratti il caso in cui `i` e `j` non definiscano indici validi di `a`, in tale evenienza la funzione deve restituire `NULL`.
+
+[Video della lezione](https://www.dropbox.com/s/ejgmf1e85s2ozo8/20220408-lezione_34.mp4?dl=1)
+
 
