@@ -1,5 +1,6 @@
 # Argomenti per lezione
 
+
 ## Lezione 1 del 2021-10-12
 
 Introduzione al corso. Metodo algoritmico. Esempi: Rompicapo di Guarini; Calcolo della radice quadrata.
@@ -315,7 +316,7 @@ L'operatore `&`; le lunzioni `malloc` e `free` della libreria `stdlib`; funzioni
 
 ## Lezione 34 del 2022-04-08
 
-Soluzione dell'esercizio proposto nella lezione precedente. Puntatori come argomenti delle funzioni: fare in modo che una funzioni modifichi variabili dichiarate esternamente. Una prima implementazione di array dinamico in C con una funzioe `append` che aggiunge un elemento in fondo all'array.
+Soluzione dell'esercizio proposto nella lezione precedente. Puntatori come argomenti delle funzioni: fare in modo che una funzioni modifichi variabili dichiarate esternamente. Una prima implementazione di array dinamico in C con una funzione `append` che aggiunge un elemento in fondo all'array.
 
 **Esercizi**
 
@@ -324,4 +325,8 @@ Soluzione dell'esercizio proposto nella lezione precedente. Puntatori come argom
 
 [Video della lezione](https://www.dropbox.com/s/ejgmf1e85s2ozo8/20220408-lezione_34.mp4?dl=1)
 
+## Lezione 35 del 2022-04-14
 
+Correzione degli esercizi.
+
+[Video della lezione](https://www.dropbox.com/s/9twf5205cedglwm/20220414-lezione35.mp4?dl=1)
