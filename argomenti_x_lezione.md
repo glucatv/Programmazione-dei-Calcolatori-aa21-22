@@ -330,3 +330,15 @@ Soluzione dell'esercizio proposto nella lezione precedente. Puntatori come argom
 Correzione degli esercizi.
 
 [Video della lezione](https://www.dropbox.com/s/9twf5205cedglwm/20220414-lezione35.mp4?dl=1)
+
+## Lezione 36 del 2022-04-15
+
+`struct` e `typedef`: definizioni; accesso ai campi con gli operatori `.` e `->`; l'operatore di assegnamento tra `struct`; `struct` come input o output di funzione. **Array dinamici**: definizione del nuovo tipo di dati e imlementazione delle funzioni `array_init`, `array_append` e `array_print`; costo computazione medio dell'operazione di append.
+
+**Esercizi**
+
+1. Scrivere una funzione denominata `array_insert` che prende in input i parametri `v`, `p`, `e` dove il primo è un `array_dinamico` (come definito a lezione), il secondo è un intero `p` ed il terzo un `float`. La funzione deve inserire `e` in posizione `p` di `v` e restituire l'array modificato. La funzione può assumere che `p` rappresenti una posizione valida di `v`. Qual è il costo medio dell'operazione?
+
+2. Scrivere una funzione denominata `array_pop` che prende in input un array dinamico `v` ed elimina da `v` l'elemento in coda.
+
+[Video della lezione](https://www.dropbox.com/s/0k0gmfz60d625cf/20220415-lezione_36.mp4?dl=1)
