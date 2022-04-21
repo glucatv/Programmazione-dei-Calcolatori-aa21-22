@@ -75,3 +75,4 @@
 34. [2022-04-08](https://www.dropbox.com/s/ejgmf1e85s2ozo8/20220408-lezione_34.mp4?dl=1)
 35. [2022-04-14](https://www.dropbox.com/s/9twf5205cedglwm/20220414-lezione35.mp4?dl=1)
 36. [2022-04-15](https://www.dropbox.com/s/0k0gmfz60d625cf/20220415-lezione_36.mp4?dl=1)
+37. [2022-04-21](https://www.dropbox.com/s/7le63z3tutslyk0/20220421-lezione_37.mp4?dl=1)

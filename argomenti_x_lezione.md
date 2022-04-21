@@ -342,3 +342,9 @@ Correzione degli esercizi.
 2. Scrivere una funzione denominata `array_pop` che prende in input un array dinamico `v` ed elimina da `v` l'elemento in coda.
 
 [Video della lezione](https://www.dropbox.com/s/0k0gmfz60d625cf/20220415-lezione_36.mp4?dl=1)
+
+## Lezione 37 del 2022-04-21
+
+Array dinamici: l'operazione `array_insert` (inserimento in posizione `p`) e l'operazione `array_pop` (rimozione dell'ultimo elemento dall'array); osservazioni sui costi.
+
+[Video della lezione](https://www.dropbox.com/s/7le63z3tutslyk0/20220421-lezione_37.mp4?dl=1)
