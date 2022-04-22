@@ -345,6 +345,12 @@ Correzione degli esercizi.
 
 ## Lezione 37 del 2022-04-21
 
-Array dinamici: l'operazione `array_insert` (inserimento in posizione `p`) e l'operazione `array_pop` (rimozione dell'ultimo elemento dall'array); osservazioni sui costi.
+Array dinamici: l'operazione `array_insert` (inserimento in posizione `p`) e l'operazione `array_pop` (rimozione dell'ultimo elemento dall'array); osservazioni sui costi. La funzione `realloc`.
 
 [Video della lezione](https://www.dropbox.com/s/7le63z3tutslyk0/20220421-lezione_37.mp4?dl=1)
+
+## Lezione 38 del 2022-04-22
+
+Un meccanismo per gestire in C array con elementi di tipo diverso.
+
+[Video della lezione](https://www.dropbox.com/s/wzq470kzi51jxdh/20220422-lezione_38.mp4?dl=1)
