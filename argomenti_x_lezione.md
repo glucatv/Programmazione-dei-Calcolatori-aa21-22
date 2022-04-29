@@ -354,3 +354,15 @@ Array dinamici: l'operazione `array_insert` (inserimento in posizione `p`) e l'o
 Un meccanismo per gestire in C array con elementi di tipo diverso.
 
 [Video della lezione](https://www.dropbox.com/s/wzq470kzi51jxdh/20220422-lezione_38.mp4?dl=1)
+
+## Lezione 39 del 2022-04-28
+
+Rappresentazione degli array in memoria; array a più dimensioni; costo computazionale dell'operazione di indicizzazione; rappresentazione di array a più dimensioni attraverso array ad una dimensione (conversione di indici); differenza tra array più dimensioni ed array di array.
+
+[Video della lezione](https://www.dropbox.com/s/iz9bc3pxwzg2lek/20220428-lezione_39.mp4?dl=1)
+
+## Lezione 40 del 2022-04-29
+
+Definizione di una struttura dati `matrice` per matridi a due dimensioni. Liste concatenate: motivazioni, introduzione e una prima rappresentazione in C.
+
+[Video della lezione](https://www.dropbox.com/s/bygwg9pwle7b21j/20220429-lezione_40.mp4?dl=1)
