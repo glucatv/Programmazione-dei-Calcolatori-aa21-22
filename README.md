@@ -49,6 +49,18 @@
     6. Array non omogenei
     7. Array a più dimensioni
 
+## Riferimenti
+
+* **Prima parte**:
+
+    * John V. Guttag. *Introduzione alla programmazione con Python. Dal pensiero computazionale al machine learning*. Egea 2021
+
+* **Seconda parte**:
+
+    * Brian W. Kernighan e Dennis M. Ritchie. *Il linguaggio C. Principi di programmazione e manuale di riferimento*. Pearson, 2018.
+    * [Dispense](./dispense_programmazione.pdf) per la parte sulle strutture dati dinamiche.
+
+
 -----------------
 
 ## [Argomenti per lezione](./argomenti_x_lezione.md)
