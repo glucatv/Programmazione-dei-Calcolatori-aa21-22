@@ -58,7 +58,7 @@
 * **Seconda parte**:
 
     * Brian W. Kernighan e Dennis M. Ritchie. *Il linguaggio C. Principi di programmazione e manuale di riferimento*. Pearson, 2018.
-    * [Dispense](./dispense_programmazione.pdf) per la parte sulle strutture dati dinamiche.
+    * [Dispense](https://www.dropbox.com/s/zsu3k8ealgka0ne/dispense_programmazione.pdf?dl=1) per la parte sulle strutture dati dinamiche.
 
 
 -----------------
