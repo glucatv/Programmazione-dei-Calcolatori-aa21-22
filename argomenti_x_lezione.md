@@ -366,3 +366,17 @@ Rappresentazione degli array in memoria; array a più dimensioni; costo computaz
 Definizione di una struttura dati `matrice` per matridi a due dimensioni. Liste concatenate: motivazioni, introduzione e una prima rappresentazione in C.
 
 [Video della lezione](https://www.dropbox.com/s/bygwg9pwle7b21j/20220429-lezione_40.mp4?dl=1)
+
+## Lezione 41 del 2022-05-05
+
+Liste concatenate: funzioni per inserimento in testa e visita (stampa e ricerca); descrizioni, implementazioni e costo computazionale.
+
+[Video della lezione](https://www.dropbox.com/s/yzexktpz35o4yjn/20220505-lezione_41.mp4?dl=1)
+
+## Lezione 42 del 2022-05-06
+
+Liste concatenate: funzione per inserimento in posizione generica e funzione di inserimento in coda; descrizioni, implementazioni e costo computazionale; descrizione delle funzioni di cancellazione.
+
+**Esercizio**. Implementare in C le funzioni di cancellazione.
+
+[Video della lezione](https://www.dropbox.com/s/48khgaqpmgggpot/20220506-lezione_42.mp4?dl=1)
