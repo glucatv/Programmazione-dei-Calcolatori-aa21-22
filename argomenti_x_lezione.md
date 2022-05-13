@@ -380,3 +380,13 @@ Liste concatenate: funzione per inserimento in posizione generica e funzione di 
 **Esercizio**. Implementare in C le funzioni di cancellazione.
 
 [Video della lezione](https://www.dropbox.com/s/48khgaqpmgggpot/20220506-lezione_42.mp4?dl=1)
+
+## Lezione 43 del 2022-05-12
+
+Liste concatenate: funzioni per la cancellazione di elementi dalla lista; lista di stringhe e problematiche relative all'utilizzo del puntatore nel campo `val` dell'elemento della lista. Passaggio degli argomenti alla linea di comando.
+
+[Video della lezione]()
+
+## Lezione 44 del 2022-05-13
+
+[Video della lezione]()
