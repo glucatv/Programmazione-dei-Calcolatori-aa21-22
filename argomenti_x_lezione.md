@@ -385,8 +385,5 @@ Liste concatenate: funzione per inserimento in posizione generica e funzione di 
 
 Liste concatenate: funzioni per la cancellazione di elementi dalla lista; lista di stringhe e problematiche relative all'utilizzo del puntatore nel campo `val` dell'elemento della lista. Passaggio degli argomenti alla linea di comando.
 
-[Video della lezione]()
+[Video della lezione](https://www.dropbox.com/s/f4hsxove3k0g0z6/20220512-lezione_43.mp4?dl=1)
 
-## Lezione 44 del 2022-05-13
-
-[Video della lezione]()
