@@ -363,7 +363,7 @@ Rappresentazione degli array in memoria; array a più dimensioni; costo computaz
 
 ## Lezione 40 del 2022-04-29
 
-Definizione di una struttura dati `matrice` per matridi a due dimensioni. Liste concatenate: motivazioni, introduzione e una prima rappresentazione in C.
+Definizione di una struttura dati `matrice` per matridi a due dimensioni. `Liste concatenate`: motivazioni, introduzione e una prima rappresentazione in C.
 
 [Video della lezione](https://www.dropbox.com/s/bygwg9pwle7b21j/20220429-lezione_40.mp4?dl=1)
 
@@ -387,3 +387,8 @@ Liste concatenate: funzioni per la cancellazione di elementi dalla lista; lista 
 
 [Video della lezione](https://www.dropbox.com/s/f4hsxove3k0g0z6/20220512-lezione_43.mp4?dl=1)
 
+## Lezione 44 del 2022-05-13
+
+Liste concatenate: liste di stringhe, implementazione delle funzioni di cancellazione (esercizo, completare le implementazioni rimaste). La struttura dati `dizionario`: definizione e operatori; una possibile implementazione con liste concatenate e con array dinamici e costi computazionali; descrizione dell'implementazione attraverso array di liste e valutazione dei costi.
+
+[Video della lezione](https://www.dropbox.com/s/h7wuwwxx9bql6ik/20220513-lezione_44.mp4?dl=1) 
