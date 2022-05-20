@@ -392,3 +392,9 @@ Liste concatenate: funzioni per la cancellazione di elementi dalla lista; lista 
 Liste concatenate: liste di stringhe, implementazione delle funzioni di cancellazione (esercizo, completare le implementazioni rimaste). La struttura dati `dizionario`: definizione e operatori; una possibile implementazione con liste concatenate e con array dinamici e costi computazionali; descrizione dell'implementazione attraverso array di liste e valutazione dei costi.
 
 [Video della lezione](https://www.dropbox.com/s/h7wuwwxx9bql6ik/20220513-lezione_44.mp4?dl=1) 
+
+## Lezione 45 del 2022-05-19
+
+Implementazione in C della struttura dati `dizionario`: definizione delle strutture; funzioni **hash**; creazione e ricerca.
+
+[Video della lezione](https://www.dropbox.com/s/te3wiuzldjyend2/20220519-lezione_45.mp4?dl=1)
