@@ -398,3 +398,9 @@ Liste concatenate: liste di stringhe, implementazione delle funzioni di cancella
 Implementazione in C della struttura dati `dizionario`: definizione delle strutture; funzioni **hash**; creazione e ricerca.
 
 [Video della lezione](https://www.dropbox.com/s/te3wiuzldjyend2/20220519-lezione_45.mp4?dl=1)
+
+## Lezione 46 del 2022-05-20
+
+`dizionario`: implementazione della funzione di inserimento/aggiornamento; impostazione della funzione di cancellazione, da implementare per esercizio.
+
+[Video della lezione](https://www.dropbox.com/s/vgux0hy0frz9zqf/20220520-lezione_46.mp4?dl=1)
