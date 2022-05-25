@@ -3,7 +3,7 @@
 ---------------------------------
 
 ## Programma dettagliato
-### Aggiornato al 18 marzo, 2022
+### Aggiornato al 25 maggio, 2022
 
 0. Introduzione al modello computazionale
 
@@ -48,6 +48,8 @@
     5. Array dinamici omogenei
     6. Array non omogenei
     7. Array a più dimensioni
+    8. Liste concatenate
+    9. Dizionari
 
 ## Riferimenti
 
