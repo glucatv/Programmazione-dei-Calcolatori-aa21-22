@@ -94,6 +94,11 @@ dizionario dizionario_in(dizionario d, dict_item e) {
     return d;
 }
 
+/*
+ * Se la chiave k e'  presente nel dizionario, viene eliminato l'item
+ * corrispondente;  altrimenti e viene ritornato il dizionario non
+ * non modificato 
+ * */
 dizionario dizionario_out(dizionario d, char *k){
     int list_index = h(d, k);
     lista_item *p, *q;
@@ -113,6 +118,10 @@ dizionario dizionario_out(dizionario d, char *k){
         /* elimino il primo elemento della lista d.a[list_index]*/
         d.a[list_index] = lista_out0(d.a[list_index]);
     } else {
+        /*
+         * elimino il primo elemento di p riconnettendo la porzione
+         * di lista risultante all'item puntato da p->prev
+         * */
         q = p->prev;
         p = lista_out0(p);
         q->next = p;
@@ -216,6 +225,13 @@ lista lista_in0(lista a, dict_item e ) {
     }
     
     p->val = e;
+    /* ATTENZIONE, e.k è un puntatore alla stringa-chiave.
+     * Pericoloso perché l'originale potrebbe essere mutato. Inoltre
+     * se ne dove tener conto in fase di cancellazione.
+     *
+     * Alternativa
+     *
+     * p->val.k = copia di e.k*/
 
     p->prev = NULL;
     p->next = a;
@@ -240,10 +256,8 @@ lista lista_out0(lista a) {
     }
 
     /*
-     * Deallocazione di p->val possibile solo se questa
-     * e' stata allocata dinamicamente.
-     * Soluzione OK nel nostro caso perche' compatibile
-     * con funzione lista_in0 
+     * p->val.k non viene deallocata perché alias di stringa dichiarata
+     * altrove. Si veda lista_in0 
      * */
     free(p);
     return a;

@@ -46,3 +46,5 @@
 44. [2022-05-13](https://www.dropbox.com/s/h7wuwwxx9bql6ik/20220513-lezione_44.mp4?dl=1)
 45. [2022-05-19](https://www.dropbox.com/s/te3wiuzldjyend2/20220519-lezione_45.mp4?dl=1)
 46. [2022-05-20](https://www.dropbox.com/s/vgux0hy0frz9zqf/20220520-lezione_46.mp4?dl=1)
+47. [2022-05-26](https://www.dropbox.com/s/ku4kapso1jmaets/20220526-lezione_47.mp4?dl=1)
+48. [2022-05-27](https://www.dropbox.com/s/uu2c955smc57wdq/20220527-lezione_48.mp4?dl=0)

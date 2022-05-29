@@ -404,3 +404,17 @@ Implementazione in C della struttura dati `dizionario`: definizione delle strutt
 `dizionario`: implementazione della funzione di inserimento/aggiornamento; impostazione della funzione di cancellazione, da implementare per esercizio.
 
 [Video della lezione](https://www.dropbox.com/s/vgux0hy0frz9zqf/20220520-lezione_46.mp4?dl=1)
+
+## Lezione 47 del 2022-05-26
+
+`dizionario`: implementazione della funzione cancellazione; osservazioni sui costi computazionali delle operazioni che possono diventate in media costanti se per l'array delle liste viene usato un array dinamico.
+
+Ripasso di argomenti: sorting con Python con la funzione incorporata `sorted` ed il metodo `sort` di liste; uso dei parametri `key` e `reverse` (per sorting, `min` e `max`)
+
+[Video della lezione](https://www.dropbox.com/s/ku4kapso1jmaets/20220526-lezione_47.mp4?dl=1)
+
+## Lezione 48 del 2022-05-27
+
+Ripasso su puntatori in C. Python: le funzioni `ord` e `chr`; la funzione `zip`; il metodo `get` per dizionari.
+
+[Video della lezione](https://www.dropbox.com/s/uu2c955smc57wdq/20220527-lezione_48.mp4?dl=1)
